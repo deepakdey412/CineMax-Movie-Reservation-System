@@ -187,7 +187,3 @@ mvn test
 ## 📄 License
 
 This project is open source and available for educational purposes.
-
-## 👨‍💻 Author
-
-Built as a production-ready full-stack application demonstrating enterprise-level architecture and best practices.
