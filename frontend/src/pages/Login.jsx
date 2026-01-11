@@ -92,9 +92,9 @@ const Login = () => {
           </div>
         </form>
         <div className="mt-6 text-center">
-          <p className="text-sm text-gray-600 dark:text-gray-400">
-            <strong>Admin Login:</strong> admin@moviebooking.com / Admin@123
-          </p>
+{/*           <p className="text-sm text-gray-600 dark:text-gray-400"> */}
+{/*             <strong>Admin Login:</strong> admin@moviebooking.com / Admin@123 */}
+{/*           </p> */}
         </div>
       </div>
     </div>
